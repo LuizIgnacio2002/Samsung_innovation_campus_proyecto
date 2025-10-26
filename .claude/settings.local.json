@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat \"C:\\Users\\quine\\Documents\\repos_github\\Samsung_innovation_campus_proyecto\\notebooks\\modeling\\1.0-or-model training.ipynb\")",
+      "Bash(python -m json.tool)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
