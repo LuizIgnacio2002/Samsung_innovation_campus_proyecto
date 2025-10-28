@@ -3,3 +3,5 @@ venv
 *csv
 *.
 *df
+*.claude
+.claude
